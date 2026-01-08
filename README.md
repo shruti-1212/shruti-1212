@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Shruti
+Senior Software Engineer | Java & Python
 
-<!--
-**shruti-1212/shruti-1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 5+ years of experience building scalable backend systems and event-driven architectures across fintech and data-driven platforms
+🔹 Specialized in designing microservices, RESTful APIs, and high-throughput data pipelines
+⚙️ Tech Stack: Java, Python, Spring Boot, SQL, Kafka, AWS, Docker
+📊 Strong background in data processing, ETL pipelines, and cloud-native solutions
+💡 Passionate about clean code, system design, and performance optimization
+🤝 Collaborative team player who enjoys solving complex engineering problems
+📈 Always learning, always building impactful solutions
 
-Here are some ideas to get you started:
+What I’m currently working on
+• Event-driven microservices
+• High-scale data pipelines
+• Cloud production systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s connect
+🔗 LinkedIn | https://www.linkedin.com/in/shruti-hande-320254136/
